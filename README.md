@@ -8,3 +8,5 @@ Game Instructions:
 1. Press space to shoot bullets at red balls
 2. Use left and right arrow keys to rotate the camera
 3. Lose a life on the red ball falling ground or shooting non-red ball
+
+[Click here to Play Game](https://play.unity.com/mg/other/s-s-ball-version-1)
